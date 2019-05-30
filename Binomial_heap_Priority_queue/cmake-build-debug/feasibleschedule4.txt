@@ -1,0 +1,13 @@
+2 core0 2
+3 core1 2
+1 core2 2
+4 core3 4
+5 core2 4
+9 core1 7
+10 core0 7
+11 core2 7
+12 core3 7
+13 core3 8
+14 core2 8
+8 core0 8
+15 core1 8
