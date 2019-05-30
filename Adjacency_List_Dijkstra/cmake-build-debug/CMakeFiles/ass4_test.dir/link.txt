@@ -1,0 +1,3 @@
+"D:\CLion\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\ass4_test.dir/objects.a
+C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\ar.exe cr CMakeFiles\ass4_test.dir/objects.a @CMakeFiles\ass4_test.dir\objects1.rsp
+C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\ass4_test.dir/objects.a -Wl,--no-whole-archive  -o ass4_test.exe -Wl,--out-implib,libass4_test.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ass4_test.dir\linklibs.rsp
